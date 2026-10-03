@@ -1,22 +1,19 @@
 {
-  "name": "dev.sleightly.template",
-  "displayName": "JS-Template",
-  "version": "0.0.0",
-  "description": "A VPM Package Template",
-  "url": "https://github.com/JustSleightly/VPM-Package-Template",
+  "name": "dev.hexcidevr.betterblendshapewindow",
+  "displayName": "BetterBlendshapeWindow",
+  "version": "1.0.0",
+  "description": "A quality of life unity editor extension to change the blendshapes fold-out to have search, filtering (VRChat only), and some more features. ",
+  "url": "https://github.com/HexcideVR/BetterBlendshapeWindow",
   "vpmDependencies": {
-    "com.vrchat.avatars": "^3.10.0"
   },
   "type": "tool",
   "keywords": [
-    "JustSleightly",
-    "Sleightly",
-    "VRChat",
-    "Template"
+    "Blendshapes",
+    "VRChat"
   ],
   "author": {
-    "name": "JustSleightly",
-    "email": "just@sleightly.dev",
-    "url": "https://just.sleightly.dev"
+    "name": "HexcideVR",
+    "email": "hexcidevr@gmail.com",
+    "url": "https://github.com/HexcideVR/BetterBlendshapeWindow"
   }
 }
